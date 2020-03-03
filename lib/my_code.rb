@@ -1,3 +1,6 @@
+
+
+
 # My Code here....
 def map_to_negativize(array)
   index = 0 
@@ -61,8 +64,6 @@ def reduce_to_all_true (array)
   end 
   r
 end
-
-
 
 
 def reduce_to_any_true (array)
